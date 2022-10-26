@@ -7,8 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload ten times again &
-          again by praveen.
+          Edit <code>src/App.js</code> demo react app in azure web app again .
         </p>
         <a
           className="App-link"
